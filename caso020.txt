@@ -1,0 +1,22 @@
+digraph G {
+# Proc 6
+rmueo_221 -> wdaqh_232
+rmueo_221 -> vw_20
+rmueo_221 -> ta_350
+rmueo_221 -> sb_230
+karte_261 -> rmueo_221
+karte_261 -> mqn_432
+karte_261 -> vklx_310
+karte_261 -> qp_158
+wdaqh_232 -> xri_501
+fii_270 -> karte_261
+fii_270 -> fnks_403
+ta_350 -> uqld_264
+fnks_403 -> lix_298
+fnks_403 -> lhod_204
+aupf_112 -> fii_270
+dha_62 -> kymts_228
+etjv_334 -> kvsmx_119
+aupf_112 -> dha_62
+aupf_112 -> etjv_334
+}
