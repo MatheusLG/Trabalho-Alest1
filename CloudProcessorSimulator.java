@@ -68,7 +68,7 @@ public class CloudProcessorSimulator {
                     System.err.println("Ocorreu um erro inesperado ao processar " + fileName + ": " + e.getMessage());
                     e.printStackTrace();
                 }
-            }
+            } 
         }
     }
 
