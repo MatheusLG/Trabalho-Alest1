@@ -91,7 +91,7 @@ public class Main {
         }
         Map<String, Tarefa> tarefas = parseTarefa(in);
         System.out.println("Número de Processadores: " + numProcessadores);
-        System.out.println("Total de Nodos: " + tarefas.size());
+        System.out.println("Total de tarefas: " + tarefas.size());
         long tempoMin = calculoProcessos(numProcessadores, tarefas, MaxMin.MIN);
         System.out.println("-> Tempo total com política MIN: " + tempoMin);
         long tempoMax = calculoProcessos(numProcessadores, tarefas, MaxMin.MAX);
